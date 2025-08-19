@@ -1,6 +1,6 @@
 
-package Day3;
-import java.util.*;
+package day3;
+import java.util.Scanner.*;
 
 public class ProductDemo {
 
