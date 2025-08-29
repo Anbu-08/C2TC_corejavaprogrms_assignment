@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * 
- */
-module UserDefinedException_Assignment {
-}
